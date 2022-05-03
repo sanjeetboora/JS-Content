@@ -1,0 +1,14 @@
+{
+    "name": "Meera",
+    "age": 20,
+    "occupation": [
+        "engineer",
+        "teacher",
+        "painter"
+    ],
+    "addresses": {
+        "address1": "HC-2 New Delhi",
+        "address2": "H-5, Dehradun",
+        "address3": "L-15 Goa"
+    }
+}
